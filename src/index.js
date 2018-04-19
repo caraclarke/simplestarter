@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 const container = document.querySelector(".container");
 
-const App = function() {
+const App = () => {
   return <div>hi</div>
 }
 
